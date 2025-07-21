@@ -77,9 +77,6 @@ const CONFIG = {
     'HTML',
     'CSS',
     'OpenCV',
-    'Adobe Photoshop, Premiere, After Effects',
-    'English (C1)',
-    'German (A2)',
   ],
   experiences: [
     {
