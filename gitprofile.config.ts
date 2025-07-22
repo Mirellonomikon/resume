@@ -20,7 +20,7 @@ const CONFIG = {
         limit: 12, // How many projects to display.
         exclude: {
           forks: false, // Forked projects will not be displayed if set to true.
-          projects: ['Mirellonomikon/resume', 'Mirellonomikon/SiemensJava2025', 'Mirellonomikon/sd_assignment1_tennis', 'Mirellonomikon/Mirellonomikon', 'Mirellonomikon/message_producer_assignment_2_ds'], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
+          projects: ['Mirellonomikon/resume', 'Mirellonomikon/SiemensJava2025', 'Mirellonomikon/sd_assignment1_tennis', 'Mirellonomikon/Mirellonomikon', 'Mirellonomikon/message_producer_assignment_2_ds', 'Mirellonomikon/restaurant', 'Mirellonomikon/polynomial_calculator', 'Mirellonomikon/ordersmanager'], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
         },
       },
       manual: {
